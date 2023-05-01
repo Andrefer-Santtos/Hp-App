@@ -1,0 +1,7 @@
+{
+  "name": "Hp-App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
